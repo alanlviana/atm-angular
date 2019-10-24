@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0px;
+    background: black;
+    overflow:hidden;
+    font-family: sans-serif;
+}
+
+*{
+    margin: 0px;
+}
+
+img, * {
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+    user-drag: none;
+}

@@ -1,0 +1,9 @@
+.fundoTitulo{
+    height: 100px;
+}
+
+.fundoTitulo h1{
+    padding-top: 30px;
+    padding-left: 30px;
+    color: white;
+}

@@ -1,0 +1,21 @@
+<div layout-margin fxFlexFill fxLayout="column">
+    
+    <app-barra-titulo titulo="Bem vindo!"></app-barra-titulo>
+
+    <div flex fxLayout="row">
+        <div class="campos" fxFlex="50" style="margin: 0px; height: 400px;">   
+            <label class="noselect">CPF</label><br>
+            <input class="noselect" type="text"><br>
+            <br>
+            <br>
+            <br>
+            <label class="noselect">Senha</label><br>
+            <input class="noselect" type="password">
+        </div>
+        <div class="teclado" fxFlex="50" style="margin: 0px; height: 400px;">   
+            <app-teclado-numerico-virtual>
+            </app-teclado-numerico-virtual>
+        </div>
+    </div>
+
+</div>

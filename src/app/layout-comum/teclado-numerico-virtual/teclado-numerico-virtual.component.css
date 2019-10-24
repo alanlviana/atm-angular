@@ -1,0 +1,9 @@
+.botao{
+    text-align: center;
+    color: white;
+    padding-top: 14px;
+    background: linear-gradient(to bottom, 	#512863, black);
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px #512863, inset 0px 0px 10px #573764 ;
+    height: 50px;
+}

@@ -1,0 +1,7 @@
+.fundo {
+    background: linear-gradient(to left, #8942a8, #ba382f);
+    height: 600px;
+    width: 800px;
+    z-index: -20;
+    position: absolute;
+}
